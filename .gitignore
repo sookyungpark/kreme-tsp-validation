@@ -1,0 +1,6 @@
+datas/
+list.json
+*.pyc
+a.out
+*.o
+column_generation/best-of-many.xcodeproj
